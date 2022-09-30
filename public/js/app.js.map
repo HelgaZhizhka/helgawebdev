@@ -1,0 +1,1 @@
+{"version":3,"file":"js/app.js","mappings":";;;;AAAAA,OAAO,CAACC,GAAR,CAAY,aAAZ,E;;;;;ACAA","sources":["webpack://static site webpack html sass/./src/js/app.js","webpack://static site webpack html sass/./src/scss/styles.scss?f39e"],"sourcesContent":["console.log('mounted app');","// extracted by mini-css-extract-plugin\nexport {};"],"names":["console","log"],"sourceRoot":""}
